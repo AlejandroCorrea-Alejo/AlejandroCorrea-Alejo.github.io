@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(204,204,204);
+    text-align: center;
+}
+#Description{
+    font-family: 'Open Sans', sans-serif;
+    border-style: solid;
+    border-color: silver;
+    background-color: azure;
+    width: 95%;
+}
