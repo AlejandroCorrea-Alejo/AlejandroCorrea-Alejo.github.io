@@ -1,3 +1,18 @@
 body{
     background-color: rgb(204,204,204);
+    text-align: center;
+}
+#links_1{
+    border-style: solid;
+    border-color: darkslategray;
+    background-color: darkgray;
+    display: inline;
+    margin: 1em;
+    padding: 5px;
+}
+img{
+    margin-left: 2em;
+    border-style: solid;
+    border-color: ghostwhite;
+    box-sizing: border-box;
 }
