@@ -1,3 +1,17 @@
 body{
     background-color: rgb(204,204,204);
+    text-align: center;
+}
+#links_1{
+    border-style: solid;
+    border-color: darkslategray;
+    background-color: darkgray;
+    display: inline;
+    margin: 2em;
+    padding: 5px;
+}
+iframe{
+    border-color: darkslategray;
+    border-style: solid;
+    margin-left: 2em
 }
